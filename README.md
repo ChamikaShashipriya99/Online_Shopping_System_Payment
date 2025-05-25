@@ -98,11 +98,3 @@ A brief overview of the key directories and files:
 *   `shopping_DB.sql`: SQL script for setting up the `shopping` database and the `payment` table.
 *   `.settings/`, `.classpath`, `.project`: Eclipse IDE project configuration files.
 
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes.
-4.  Submit a pull request.
